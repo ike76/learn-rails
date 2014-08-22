@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 ruby '2.1.2'
 gem 'rails', '4.1.5'
 
+gem 'figaro'
+
 # Rails defaults
 gem 'sqlite3'
 gem 'sass-rails', '~> 4.0.3'
