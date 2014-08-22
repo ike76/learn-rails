@@ -49,9 +49,6 @@ GEM
     execjs (2.2.1)
     faraday (0.9.0)
       multipart-post (>= 1.2, < 3)
-    figaro (0.7.0)
-      bundler (~> 1.0)
-      rails (>= 3, < 5)
     foundation-rails (5.4.0.0)
       railties (>= 3.1.0)
       sass (>= 3.2.0)
@@ -168,7 +165,6 @@ DEPENDENCIES
   activerecord-tableless
   better_errors
   coffee-rails (~> 4.0.0)
-  figaro
   foundation-rails
   gibbon
   google_drive
